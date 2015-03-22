@@ -1,6 +1,6 @@
 {
   "name": "wlog",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Warning logger",
   "main": "index.js",
   "scripts": {

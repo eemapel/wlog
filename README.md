@@ -1,4 +1,4 @@
 # wlog
 Warning logger
 
-Run index.js to see an example
+Run example.js to see an example

@@ -4,7 +4,7 @@
   "description": "Warning logger",
   "main": "lib/logger.js",
   "scripts": {
-    "test": "jshint *.js lib/*.js"
+    "test": "jshint examples/*.js lib/*.js"
   },
   "repository": {
     "type": "git",

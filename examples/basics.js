@@ -8,9 +8,8 @@ var wlog = require('../lib/logger.js')
 wlog.warn("This is a warning with default tag")
 
 wlog.tag("TEST")
-wlog.warn("This is a warning with [TEST] tag before debug backtrace")
-wlog.debug()
-wlog.note("This is a note after debug backgrace")
+wlog.warn("This is a warning with [TEST] tag")
+wlog.note("This is a note")
 
 wlog.err("This is an error message and will exit")
 

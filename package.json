@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/eemapel/wlog",
   "dependencies": {
+    "callsite": "latest",
     "colors": "1.0.3"
   },
   "devDependencies": {

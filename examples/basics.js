@@ -10,6 +10,7 @@ wlog.warn("This is a warning with default tag")
 wlog.tag("TEST")
 wlog.warn("This is a warning with [TEST] tag")
 wlog.note("This is a note")
+wlog.remark("This is a remark")
 
 wlog.err("This is an error message and will exit")
 
